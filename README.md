@@ -1,6 +1,7 @@
 
 # 💻 Tech Stack:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+<img src="https://i.gifer.com/En1y.gif" alt="gif">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aashour06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aashour06&theme=dark&hide_border=false)<br/>
@@ -14,6 +15,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aashour06&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<img src="https://i.gifer.com/En1y.mp4" alt="gif">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
