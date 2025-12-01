@@ -14,4 +14,4 @@ Currently focusing on:
 ## ⚙️ Tech Stack
 - **Languages:** Python, Bash
 - **Tools:** Docker, Git, Linux
-- **Interests:** Data Engineering, System Design, Databases, DSA
+- **Interests:** Data Engineering, Databases, DSA
